@@ -1,0 +1,2 @@
+ball_chaser:beginner_tutorials:my_robot:pgm_map_creator:simple_arm:turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr
+-DCATKIN_DEVEL_PREFIX=/home/pratama/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pratama/catkin_ws/install -G Unix Makefiles
